@@ -6,6 +6,12 @@ This project page describes our paper at the [International Conference on Machin
 | :---: | :---: | :---: | :---: | :---: |
 | [David Güera][web-david] | [Sriram Baireddy][web-sriram] | [Paolo Bestagini][web-paolo] |  [Stefano Turbaro][web-stefano] | [Edward Delp][web-delp] |
 
+## Contact
+
+If you have any general question about our work or code which may be of interest to other researchers, please use the [issues section](https://github.com/dguera/fake-video-detection-without-pixels/issues)
+on this git repo. You can also send us an e-mail at [dgueraco@purdue.edu](mailto:dgueraco@purdue.edu).
+
+
 <!--Images-->
 [image-sriram]: misc/images/sriram_baireddy.jpg "Sriram Baireddy"
 [image-david]: misc/images/david_guera.jpg "David Güera"
