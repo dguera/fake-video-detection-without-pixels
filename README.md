@@ -2,9 +2,9 @@
 
 This project page describes our paper at the [International Conference on Machine Learning (ICML), Synthetic Realities: Deep Learning for Detecting AudioVisual Fakes Workshop](https://sites.google.com/view/audiovisualfakes-icml2019/).
 
-| ![David Güera][image-david] | ![Sriram Baireddy][image-sriram] | ![Paolo Bestagini][image-paolo] |  ![Stefano Turbaro][image-stefano] | ![Edward Delp][image-delp] |
+| ![David Güera][image-david] | ![Sriram Baireddy][image-sriram] | ![Paolo Bestagini][image-paolo] |  ![Stefano Turbaro][image-stefano] | ![Edward J. Delp][image-delp] |
 | :---: | :---: | :---: | :---: | :---: |
-| [David Güera][web-david] | [Sriram Baireddy][web-sriram] | [Paolo Bestagini][web-paolo] |  [Stefano Turbaro][web-stefano] | [Edward Delp][web-delp] |
+| [David Güera][web-david] | [Sriram Baireddy][web-sriram] | [Paolo Bestagini][web-paolo] |  [Stefano Turbaro][web-stefano] | [Edward J. Delp][web-delp] |
 
 ## Abstract
 
@@ -44,7 +44,7 @@ on this git repo. You can also send us an e-mail at [dgueraco@purdue.edu](mailto
 [image-david]: misc/images/david_guera.jpg "David Güera"
 [image-paolo]: misc/images/paolo_bestagini.png "Paolo Bestagini"
 [image-stefano]: misc/images/stefano_tubaro.jpg "Stefano Turbaro"
-[image-delp]: misc/images/edward_delp.jpg "Edward Delp"
+[image-delp]: misc/images/edward_delp.jpg "Edward J. Delp"
 
 [image-viper-logo]: misc/images/politecnico_milano_logo.png
 [image-purdue-logo]: misc/images/purdue_logo.png
